@@ -1,0 +1,6 @@
+.DS_Store
+*.mha
+*.xlsx
+*.gz
+*.pyc
+*.nii
